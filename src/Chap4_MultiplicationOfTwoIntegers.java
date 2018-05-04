@@ -4,7 +4,7 @@ import java.math.BigInteger;
  * Created by HinTi on 2018/4/8.
  * 整数相乘
  */
-public class Chap5_MultiplicationOfTwoIntegers {
+public class Chap4_MultiplicationOfTwoIntegers {
     public long Multiply(int x, int y, int n)
     {
         if(n==1)
