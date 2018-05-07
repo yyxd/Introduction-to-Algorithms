@@ -1,7 +1,5 @@
 package util;
 
-import chap6.QuickSort;
-
 /**
  * Created by HinTi on 2018/5/6.
  */
