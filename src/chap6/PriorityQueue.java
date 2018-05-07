@@ -6,6 +6,7 @@ import java.util.List;
 /**
  * Created by HinTi on 2018/4/27.
  * 使用最小堆实现优先队列
+ * 最小堆：父节点小于子节点
  */
 public class PriorityQueue {
 
