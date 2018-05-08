@@ -1,3 +1,5 @@
+import util.SortBbyA;
+
 import java.util.Random;
 
 /**
@@ -18,11 +20,8 @@ public class Chap5_RandomPermutingAnArray {
         for (int i = 1;i<n;i++)
             p[i]= random.nextInt(n*n*n);
         //将nums[i]按照p[i]的大小排序
+        SortBbyA.sort(p,nums);
     }
 
-    public void PermuteInPlace(int[] nums)
-    {
-
-    }
 
 }
